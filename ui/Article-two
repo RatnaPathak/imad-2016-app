@@ -1,0 +1,30 @@
+
+<html>
+    <head>
+        <title> Article-two</title>
+    </head>
+    
+    <body><div>
+        <a href="/">Home</a>
+          </div> 
+          <hr/>
+          <h3> Article two</h3>
+          <div> Sep 26 2016</div>
+          
+          <div> <p> This is the content of my second article
+          and here its a paragraph.</p>
+          </div>
+          <div> <p> This is the content of my second article
+          and here its a paragraph.</p>
+          </div>
+          <div> <p> This is the content of my second article
+          and here its a paragraph.</p>
+          </div>
+          
+    </body>
+    
+    
+    
+    
+
+</html>
